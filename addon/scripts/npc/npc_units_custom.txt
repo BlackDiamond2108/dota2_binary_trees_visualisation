@@ -1,0 +1,17 @@
+"DOTAUnits"
+{
+    "npc_tree_node"
+    {
+        "BaseClass" "npc_dota_creature"
+        "Model" "models/heroes/wisp/wisp.vmdl"
+        "ModelScale" "0.7"
+        "Level" "1"
+        "StatusHealth" "1"
+        "StatusHealthRegen" "0"
+        "AttackCapabilities" "DOTA_UNIT_CAP_NO_ATTACK"
+        "MovementCapabilities" "DOTA_UNIT_CAP_MOVE_NONE"
+        "BoundsHullName" "DOTA_HULL_SIZE_SMALL"
+        "VisionDaytimeRange" "0"
+        "VisionNighttimeRange" "0"
+    }
+}

@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+    "addonversion" "1"
+    "IsPlayable" "1"
+    "maps" "test_basic"
+    "test_basic"
+    {
+        "MinPlayers" "1"
+        "MaxPlayers" "1"
+    }
+}

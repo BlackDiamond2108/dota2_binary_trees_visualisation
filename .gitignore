@@ -1,0 +1,11 @@
+/bst-server
+/bst-server.new
+/bst-test
+/pre-update-tree.txt
+/README.txt
+__pycache__/
+*.pyc
+*.log
+/addon/scripts/npc/tree_response.txt
+/addon/scripts/npc/tree_response.tmp
+/build/
